@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="1" >
+<parameter name="email1" value="01004827411" />
+<parameter name="pass1" value="01004827411" />
+<test name="test">
+<classes>
+<class name="Samples.Send_parameter">
+</class>
+</classes>
+</test>
+</suite>

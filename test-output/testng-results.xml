@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1763938" started-at="2020-01-12T14:27:54Z" finished-at="2020-01-12T14:57:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1763938" started-at="2020-01-12T14:27:54Z" finished-at="2020-01-12T14:57:18Z">
+      <class name="license_manager.add_branch_license">
+        <test-method status="PASS" signature="setup()[pri:0, instance:license_manager.add_branch_license@6b57696f]" name="setup" is-config="true" duration-ms="3921" started-at="2020-01-12T14:27:54Z" finished-at="2020-01-12T14:27:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="UpdateModule()[pri:0, instance:license_manager.add_branch_license@6b57696f]" name="UpdateModule" duration-ms="1759377" started-at="2020-01-12T14:27:58Z" finished-at="2020-01-12T14:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateModule -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:license_manager.add_branch_license@6b57696f]" name="teardown" is-config="true" duration-ms="623" started-at="2020-01-12T14:57:18Z" finished-at="2020-01-12T14:57:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- license_manager.add_branch_license -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
